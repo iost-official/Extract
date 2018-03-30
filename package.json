@@ -27,26 +27,26 @@
   "dependencies": {
     "binary": "^0.3.0",
     "graceful-fs": "^4.1.3",
-    "mkpath": "^0.1.0",
+    "mkpath": "^1.0.0",
     "nopt": "^3.0.1",
     "q": "^1.1.2",
-    "readable-stream": "^1.1.8",
-    "touch": "0.0.3"
+    "readable-stream": "^2.1.0",
+    "touch": "1.0.0"
   },
   "devDependencies": {
-    "archiver": "^0.13.1",
-    "chai": "^1.10.0",
+    "archiver": "^1.1.0",
+    "chai": "^3.5.0",
     "coveralls": "^2.11.2",
     "fs-jetpack": "^0.5.3",
-    "grunt": "^0.4.1",
-    "grunt-cli": "^0.1.13",
-    "grunt-contrib-jshint": "^0.11.0",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-exec": "^0.4.2",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^1.0.0",
     "grunt-simple-mocha": "^0.4.0",
-    "istanbul": "^0.3.5",
-    "mocha": "^2.1.0",
-    "tmp": "0.0.24"
+    "istanbul": "^0.4.5",
+    "mocha": "^3.0.0",
+    "tmp": "0.0.28"
   },
   "files": [
     "bin",
