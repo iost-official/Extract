@@ -22,7 +22,6 @@
     "extract",
     "zlib"
   ],
-  "author": "Bower",
   "license": "MIT",
   "dependencies": {
     "binary": "^0.3.0",

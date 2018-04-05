@@ -70,4 +70,4 @@ unzipper.list();
 
 ## License
 
-MIT © Bower team
+MIT
